@@ -1,4 +1,4 @@
-# Ahoj 👋, jsem Tomáš
+<h1 align="center">Ahoj 👋, jsem Tomáš</h1>
 
 
 - 💻 V současné době pracuji na https://basicblock.cz, https://kacenkacraft.cz
